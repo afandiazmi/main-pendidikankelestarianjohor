@@ -17,13 +17,3 @@ const request1 = fetch("https://elestari.pendidikankelestarianjohor.edu.my/api/a
   });
 
 request1;
-//
-
-//
-//
-
-// document.querySelector(".kutipan3R").textContent = kutipan3R;
-// document.querySelector(".penguranganKarbonKutipan3R").textContent = penguranganKarbonKutipan3R;
-
-// document.querySelector(".jumlahPenjimatanKeseluruhan").textContent = jumlahPenjimatanKeseluruhan;
-// document.querySelector(".jumlahPenguranganKarbonKeseluruhan").textContent = jumlahPenguranganKarbonKeseluruhan;
